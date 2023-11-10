@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pet Food Store</title>
+    <%- include('./partials/css.ejs') %>
+  </head>
+  <body>
+    <div class="mb-4">
+      <%- include("./partials/navBar.ejs") %>
+
+      <a href="/customer/create" class="btn btn-primary btn-sm"
+        >Add a new customer</a
+      >
+    </div>
+<%- include("./partials/errMsg.ejs") %>
+
+
+    <div class="container">
+      <div class="row">
+        <% if (customers && customers.length > 0) { %> <%
+        customers.forEach(function(customer) { %>
+        <div class="col-md-4 mb-2">
+          <div class="card p-2">
+            <div class="card-body">
+              <h4 class="card-title"><a href="/customer/<%= customer.customerID %>">customer ID: <%= customer.customerID %></a></h5>
+              <p class="card-text">First Name: <%= customer.firstname %></p>
+              <p class="card-text">Last Name: <%= customer.lastname %></p>
+              <p class="card-text">Email: <%= customer.email %></p>
+              <p class="card-text">Phone: <%= customer.phone %></p>
+              <p class="card-text">Address: <%= customer.address %></p>
+              <a
+                href="/customer/<%= customer.customerID %>/edit"
+                class="btn btn-primary"
+                >Edit</a
+              >
+              <a
+                href="/customer/<%= customer.customerID %>/delete"
+                class="btn btn-danger"
+                >Delete</a
+              >
+            </div>
+          </div>
+        </div>
+        <% }); %> <% } else { %>
+        <p>No customer records found.</p>
+        <% } %>
+      </div>
+            <%- include("./partials/footer.ejs") %>
+    </div>
+  </body>
+</html>

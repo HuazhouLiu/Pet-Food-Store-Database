@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title customer Details <%= customer?.customerID %></title>
+    <%- include('./partials/css.ejs') %>
+  </head>
+  <body>
+    <div class="container">
+      <%- include("./partials/navBar.ejs") %>
+      <h1 customer Details <%= customer?.customerID %></h1>
+
+      <%- include("./partials/errMsg.ejs") %>
+
+      <!-- customer details -->
+      <div class="mb-1">
+        <label class="form-label">
+          <strong>First Name:</strong>
+          <output> <%= customer.firstname %> </output>
+        </label>
+      </div>
+      <div class="mb-1">
+        <label class="form-label">
+          <strong>Last Name:</strong>
+          <output> <%= customer.lastname %> </output>
+        </label>
+      </div>
+      <div class="mb-1">
+        <label class="form-label">
+          <strong>Email:</strong>
+          <output> <%= customer.email %> </output>
+        </label>
+      </div>
+      <div class="mb-1">
+        <label class="form-label">
+          <strong>Phone:</strong>
+          <output> <%= customer.phone %> </output>
+        </label>
+      </div>
+      <div class="mb-1">
+        <label class="form-label">
+          <strong>Phone:</strong>
+          <output> <%= customer.address %> </output>
+        </label>
+      </div>
+
+      <!-- pet details -->
+      <h2>pet Info</h2>
+      <% if (pet && pet.length) { %> <%
+      pet.forEach(function(pt) { %>
+      <div class="pt">
+        <form
+          action="/pet/<%= pt.petID %>/edit"
+          method="POST"
+        >
+          <!-- Editable fields for name and age -->
+          <div class="form-group">
+            <label for="petname-<%= pt.petID %>"
+              >Name:</label
+            >
+            <input
+              type="text"
+              name="petname"
+              id="name-<%= pt.petID %>"
+              value="<%= pt.petname %>"
+              class="form-control"
+            />
+          </div>
+          <div class="form-group">
+            <label for="age-<%= pt.petID %>"
+              >Age:</label
+            >
+            <input
+              type="text"
+              name="age"
+              id="age-<%= pt.petID %>"
+              value="<%= pt.age %>"
+              class="form-control"
+            />
+          </div>
+
+          <!-- Buttons for saving or deleting the pet -->
+          <div class="mb-1">
+            <button type="submit" class="btn btn-primary btn-sm">
+              Save Changes
+            </button>
+            <a
+              href="/pet/<%= pt.petID %>/delete"
+              class="btn btn-danger btn-sm"
+              onclick="return confirm('Do you want to delete this pet?');"
+              >Delete</a
+            >
+          </div>
+        </form>
+      </div>
+      <% }); %> <% } else { %>
+      <p>No pets found for this customer.</p>
+      <% } %>
+
+      <!-- Add New pet Form -->
+      <h3>Add New pet</h3>
+      <form action="/pet/create" method="POST">
+        <input
+          type="hidden"
+          name= "CustomerID"
+          value="<%= customer.customerID %>"
+        />
+        <div class="form-group">
+          <label for="petname">petname:</label>
+          <input
+            type="text"
+            name="petname"
+            id="petname"
+            required
+            class="form-control"
+          />
+        </div>
+        <div class="form-group">
+          <label for="age">age:</label>
+          <input
+            type="number"
+            name="age"
+            id="age"
+            required
+            class="form-control"
+          />
+        </div>
+        <div class="form-group">
+          <label for="species">Species:</label>
+          <input
+            type="text"
+            name="species"
+            id="species"
+            required
+            class="form-control"
+          />
+        </div>
+        <div class="form-group">
+          <label for="breed">Breed:</label>
+          <input
+            type="text"
+            name="breed"
+            id="breed"
+            required
+            class="form-control"
+          />
+        </div>
+        <button type="submit" class="btn btn-primary">Add pet</button>
+      </form>
+
+      <%- include("./partials/footer.ejs") %>
+    </div>
+    <!-- /.container -->
+  </body>
+</html>

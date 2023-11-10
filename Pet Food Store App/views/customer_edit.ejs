@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>customer Edit</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Edit customer <%= customer?.customerID %></h1>
+
+      <form action="/customer/<%= customer?.customerID %>/edit" method="POST">
+        <div class="mb-3">
+          <label class="form-label">
+            First Name
+            <input
+              type="text"
+              value="<%= customer.firstname %>"
+              name="firstname"
+              class="form-control"
+            />
+          </label>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">
+            Last Name
+            <input
+              type="text"
+              value="<%= customer.lastname %>"
+              name="lastname"
+              class="form-control"
+            />
+          </label>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">
+            Email
+            <input
+              type="text"
+              value="<%= customer.email %>"
+              name="email"
+              class="form-control"
+            />
+          </label>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">
+            Phone
+            <input
+              type="text"
+              value="<%= customer.phone %>"
+              name="phone"
+              class="form-control"
+            />
+          </label>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">
+            Address
+            <input
+              type="text"
+              value="<%= customer.address %>"
+              name="address"
+              class="form-control"
+            />
+          </label>
+        </div>
+        <div>
+          <button type="submit" class="btn btn-primary">Save Changes</button>
+        </div>
+      </form>
+    </div>
+    <!-- /.container -->
+  </body>
+</html>

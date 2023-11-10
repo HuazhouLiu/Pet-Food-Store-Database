@@ -1,0 +1,1001 @@
+petID,petName,age,species,breed,customerID
+1,Python (unidentified),14.2,unavailable,3000449302,1
+2,Horned puffin,11.6,Fratercula corniculata,3180650907,2
+3,Mountain duck,5,Hymenolaimus malacorhynchus,6523346595,3
+4,Egyptian vulture,23.4,Neophron percnopterus,2465465236,4
+5,"Cormorant, neotropic",10.6,Phalacrocorax brasilianus,3193941085,5
+6,Orca,12.1,Orcinus orca,8507230083,6
+7,"Bulbul, african red-eyed",25.7,Pycnonotus nigricans,7030621131,7
+8,"Sunbird, lesser double-collared",22.1,Nectarinia chalybea,8983647515,8
+9,Common zorro,10.2,Dusicyon thous,686480511,9
+10,"Stilt, black-winged",3.3,Himantopus himantopus,5301731440,10
+11,"Polecat, african",23,Ictonyx striatus,6403811851,11
+12,Southern screamer,24.2,Chauna torquata,3003929216,12
+13,Common shelduck,24.4,Tadorna tadorna,7146844021,13
+14,"Toucan, red-billed",23.2,Ramphastos tucanus,186145187,14
+15,Grey heron,1.8,Ardea cinerea,3023774781,15
+16,"Vulture, king",24.6,Sarcorhamphus papa,7470204849,16
+17,Ostrich,2.4,Struthio camelus,6219310861,17
+18,Red-knobbed coot,23,Fulica cristata,2854279492,18
+19,Little blue penguin,19.6,Eudyptula minor,3091869679,19
+20,"Porcupine, north american",19.6,Erethizon dorsatum,3532435004,20
+21,"Macaw, green-winged",28.3,Ara chloroptera,4242901526,21
+22,"Pigeon, wood",15.7,Columba palumbus,5359829028,22
+23,Whip-tailed wallaby,2.8,Macropus parryi,3460557710,23
+24,Mountain duck,10,Hymenolaimus malacorhynchus,5445746879,24
+25,"Sparrow, house",6.6,Passer domesticus,4737858900,25
+26,Giant otter,2.6,Pteronura brasiliensis,5411052874,26
+27,"Lourie, grey",1.4,Lorythaixoides concolor,156821303,27
+28,Grey-footed squirrel,20.6,Paraxerus cepapi,1339419424,28
+29,Southern ground hornbill,12.8,Bucorvus leadbeateri,5234049493,29
+30,Javan gold-spotted mongoose,10,Herpestes javanicus,1692735004,30
+31,Great cormorant,22.2,Phalacrocorax carbo,9821304958,31
+32,"Turaco, violet-crested",19.4,Tauraco porphyrelophus,16995317,32
+33,"Ibis, sacred",8,Threskionis aethiopicus,7450073153,33
+34,Kafue flats lechwe,8.9,Kobus leche robertsi,8510399425,34
+35,"Baboon, savanna",0.7,Papio cynocephalus,9239475818,35
+36,Verreaux's sifaka,1.7,Propithecus verreauxi,206108354,36
+37,Red-cheeked cordon bleu,0.1,Uraeginthus bengalus,8287747694,37
+38,Miner's cat,6.2,Bassariscus astutus,135512204,38
+39,Goanna lizard,26.2,Varanus sp.,2638190993,39
+40,"Oryx, beisa",10.8,Oryx gazella,3729266330,40
+41,Painted stork,0.4,Mycteria leucocephala,9276334904,41
+42,"Vulture, griffon",3,Gyps fulvus,5482816273,42
+43,"Crane, sandhill",10,Grus canadensis,4062485958,43
+44,Gray heron,21.8,Ardea cinerea,6980098365,44
+45,Violet-eared waxbill,3.1,Uraeginthus granatina,5513229420,45
+46,Bushpig,2.5,Potamochoerus porcus,127544607,46
+47,Chimpanzee,24.5,Pan troglodytes,2544587342,47
+48,Red-breasted nuthatch,27,Sitta canadensis,8614406371,48
+49,"Shelduck, european",23.2,Tadorna tadorna,6246650104,49
+50,White-throated robin,24,Irania gutteralis,7874121376,50
+51,"Rhinoceros, square-lipped",5.4,Ceratotherium simum,6675743473,51
+52,"Rattlesnake, horned",12.2,Crotalus cerastes,638442745,52
+53,"Boa, mexican",4.6,Boa constrictor mexicana,1864660783,53
+54,"Alligator, mississippi",5.6,Alligator mississippiensis,8147560834,54
+55,Nubian bee-eater,25.4,Merops nubicus,4326341408,55
+56,Golden jackal,21.5,Canis aureus,48385514,56
+57,Dark-winged trumpeter,29.5,Psophia viridis,9593853626,57
+58,Greylag goose,11.1,Anser anser,9028869271,58
+59,"Swan, black",10.2,Cygnus atratus,3559908809,59
+60,Mara,25.8,Dolichitus patagonum,8636954479,60
+61,Long-tailed jaeger,3.6,Stercorarius longicausus,8892405829,61
+62,White-throated kingfisher,29.7,Halcyon smyrnesis,1752292200,62
+63,Grey-footed squirrel,29.1,Paraxerus cepapi,1337917265,63
+64,Black-eyed bulbul,9.3,Pycnonotus barbatus,325921598,64
+65,Collared lizard,11.8,Crotaphytus collaris,102189994,65
+66,Blue shark,23.4,Prionace glauca,1809550874,66
+67,Common raccoon,21.3,Procyon lotor,5431199269,67
+68,Crowned eagle,8.2,Spizaetus coronatus,2429676656,68
+69,Cape Barren goose,13.6,Cereopsis novaehollandiae,9853276119,69
+70,"Bear, black",17.5,Ursus americanus,524587728,70
+71,"Cat, cape wild",3.3,Felis libyca,6318351930,71
+72,Pied butcher bird,7.6,Cracticus nigroagularis,2166583571,72
+73,Chital,14.8,Axis axis,3939603600,73
+74,Eurasian beaver,23.9,Castor fiber,4840140952,74
+75,Vicuna,14.9,Vicugna vicugna,3136312309,75
+76,Greater blue-eared starling,24.3,Lamprotornis chalybaeus,3917123649,76
+77,"Seal, southern elephant",27.3,Mirounga leonina,8125724192,77
+78,Gerbil (unidentified),2,Gerbillus sp.,7281701705,78
+79,Great egret,4.6,Casmerodius albus,6610125791,79
+80,"Wallaby, agile",2.4,Macropus agilis,3988471224,80
+81,"Owl, madagascar hawk",0.4,Ninox superciliaris,8685868564,81
+82,Topi,20.8,Damaliscus lunatus,9078849746,82
+83,"Legaan, ground",24.5,Varanus sp.,7547171451,83
+84,Seven-banded armadillo,17.5,Dasypus septemcincus,5828624369,84
+85,Elegant crested tinamou,15.6,Eudromia elegans,9387050505,85
+86,"Squirrel, malabar",12.8,Ratufa indica,7555423049,86
+87,"Crow, house",5.5,Corvus brachyrhynchos,4170789482,87
+88,"Squirrel, uinta ground",24.2,Spermophilus armatus,9907117951,88
+89,Red-billed toucan,24,Ramphastos tucanus,5644453251,89
+90,"Stork, jabiru",12.3,Ephippiorhynchus mycteria,5728845789,90
+91,"Gull, dusky",26.1,Larus fuliginosus,3597414230,91
+92,"Antechinus, brown",15.3,Antechinus flavipes,2798205735,92
+93,Common long-nosed armadillo,14.5,Dasypus novemcinctus,3352148287,93
+94,Common boubou shrike,2,Laniarius ferrugineus,8417730052,94
+95,"Dove, laughing",8.2,Streptopelia senegalensis,6307465271,95
+96,"Antelope, roan",21,Hippotragus equinus,1317651243,96
+97,Kinkajou,23.1,Potos flavus,7795203108,97
+98,Black-collared barbet,7.9,Lybius torquatus,3747178111,98
+99,Red-legged pademelon,15.2,Thylogale stigmatica,6708190524,99
+100,South American meadowlark (unidentified),17.3,unavailable,5893855434,100
+101,Onager,29.7,Equus hemionus,8057841125,101
+102,Prairie falcon,6.1,Falco mexicanus,5561986414,102
+103,Western patch-nosed snake,25.6,Salvadora hexalepis,3474940767,103
+104,American bighorn sheep,23.1,Ovis canadensis,1593039212,104
+105,Clark's nutcracker,16,Nucifraga columbiana,5992070389,105
+106,African clawless otter,26.6,Aonyx capensis,7634014265,106
+107,"Penguin, little blue",27.8,Eudyptula minor,7513730547,107
+108,"Crane, sarus",14,Grus antigone,3798635676,108
+109,"Owl, snowy",0.5,Nyctea scandiaca,176660623,109
+110,Silver gull,26.9,Larus novaehollandiae,7525802084,110
+111,Four-spotted skimmer,11,Libellula quadrimaculata,8500870788,111
+112,Mule deer,23.1,Odocoileus hemionus,4368120671,112
+113,Snake-necked turtle,20.9,Chelodina longicollis,6654583140,113
+114,"Phascogale, red-tailed",6.7,Phascogale calura,9312311417,114
+115,Peregrine falcon,15.2,Falco peregrinus,4825206794,115
+116,"Corella, long-billed",11.4,Cacatua tenuirostris,237994747,116
+117,"Falcon, prairie",4.7,Falco mexicanus,3970434939,117
+118,"Puffin, horned",24.9,Fratercula corniculata,3494836027,118
+119,"Fox, crab-eating",3.8,Dusicyon thous,2511040794,119
+120,"Phascogale, red-tailed",8,Phascogale calura,4385398186,120
+121,"Dog, bush",28,Speothos vanaticus,9670305179,121
+122,"Bustard, denham's",24.5,Neotis denhami,5479172263,122
+123,California sea lion,15,Zalophus californicus,6308662194,123
+124,Spotted hyena,23.6,Crocuta crocuta,3572613639,124
+125,"Cat, toddy",17.4,Paradoxurus hermaphroditus,2759499669,125
+126,Brown brocket,29,Mazama gouazoubira,1970250615,126
+127,"Mockingbird, galapagos",1.1,Nesomimus trifasciatus,4156353222,127
+128,White-fronted bee-eater,15.7,Merops bullockoides,6430245578,128
+129,"Tortoise, asian foreset",27.6,Manouria emys,89808967,129
+130,Western grey kangaroo,19.6,Macropus fuliginosus,4983974148,130
+131,Common palm civet,27.5,Paradoxurus hermaphroditus,9130878497,131
+132,"Sloth, hoffman's",29.7,Choloepus hoffmani,7558103274,132
+133,"Kiskadee, great",27,Pitangus sulphuratus,5783357634,133
+134,Caribou,7.3,Rangifer tarandus,3812928965,134
+135,Caribou,24.3,Rangifer tarandus,2497135681,135
+136,"Barbet, crested",15.5,Trachyphonus vaillantii,6651982672,136
+137,"Seal, northern fur",13.9,Callorhinus ursinus,6473891293,137
+138,"Lemur, ring-tailed",18.5,Lemur catta,7100447364,138
+139,Greater adjutant stork,9.1,Leptoptilus dubius,4124134525,139
+140,White-faced tree rat,16,Echimys chrysurus,7008893728,140
+141,Killer whale,23.5,Orcinus orca,7504651400,141
+142,"Lemur, ring-tailed",13,Lemur catta,2189448107,142
+143,Hanuman langur,17.1,Semnopithecus entellus,5891774356,143
+144,"Waterbuck, defassa",29.9,Kobus defassa,5066657886,144
+145,"Seal, harbor",22.8,Phoca vitulina,2221386299,145
+146,"Phascogale, red-tailed",1.4,Phascogale calura,3042010090,146
+147,"Buffalo, african",10,Snycerus caffer,1055446311,147
+148,European badger,28.2,Meles meles,65695208,148
+149,"Dove, mourning collared",8.1,Streptopelia decipiens,3625890003,149
+150,"Porcupine, north american",24.3,Erethizon dorsatum,1849180296,150
+151,Kalahari scrub robin,3.8,Certotrichas paena,9452733640,151
+152,Puma,3.2,Felis concolor,705208079,152
+153,"Crocodile, nile",2.9,Crocodylus niloticus,9630892936,153
+154,"Cat, kaffir",0.1,Felis silvestris lybica,7471256745,154
+155,Pied avocet,15.9,Recurvirostra avosetta,3535865727,155
+156,Magistrate black colobus,7.3,Colobus guerza,2426986530,156
+157,American woodcock,19.2,Scolopax minor,1302396625,157
+158,Laughing dove,5.8,Streptopelia senegalensis,7765208993,158
+159,"Wombat, common",11.7,Vombatus ursinus,5330211689,159
+160,Common nighthawk,25.1,Chordeiles minor,1161733701,160
+161,Magnificent frigate bird,25,Fregata magnificans,4142356933,161
+162,"Starling, red-shouldered glossy",22.7,Lamprotornis nitens,7999058343,162
+163,Greater flamingo,14.9,Phoenicopterus ruber,2115413229,163
+164,Savannah deer (unidentified),13.1,unavailable,2592711473,164
+165,"Cockatoo, red-breasted",3.8,Eolophus roseicapillus,9487140085,165
+166,Grey phalarope,5.5,Phalaropus fulicarius,2374411451,166
+167,Timber wolf,21.4,Canis lupus lycaon,8304230577,167
+168,Red-legged pademelon,2.5,Thylogale stigmatica,5229234067,168
+169,"Squirrel, malabar",17.5,Ratufa indica,1589050045,169
+170,Small-spotted genet,13.6,Genetta genetta,8934709529,170
+171,Southern boubou,13.3,Laniarius ferrugineus,4427634885,171
+172,African wild cat,21,Felis silvestris lybica,5076092016,172
+173,Capybara,4.1,Hydrochoerus hydrochaeris,2657196632,173
+174,Eleven-banded armadillo (unidentified),7.7,Cabassous sp.,8745993645,174
+175,Suricate,25.4,Suricata suricatta,2962033687,175
+176,"Cliffchat, mocking",13.8,Thamnolaea cinnmomeiventris,1840534796,176
+177,Musk ox,0.7,Ovibos moschatus,5558996412,177
+178,"Wallaby, red-necked",8.3,Macropus rufogriseus,1869303679,178
+179,"Boubou, southern",21.4,Laniarius ferrugineus,1888688955,179
+180,Great white pelican,8.8,Pelecans onocratalus,9633964547,180
+181,"Loris, slender",9.3,Loris tardigratus,1660927943,181
+182,"Gull, silver",20.9,Larus novaehollandiae,7564388617,182
+183,"Woodcock, american",8.7,Scolopax minor,7363320039,183
+184,Woodchuck,18.7,Marmota monax,3746456266,184
+185,Impala,5,Aepyceros mylampus,7492997493,185
+186,Chuckwalla,19.7,Sauromalus obesus,488198739,186
+187,Alpaca,28.2,Lama pacos,1356339115,187
+188,"Tern, arctic",2.4,Sterna paradisaea,3721036158,188
+189,"Falcon, prairie",28.4,Falco mexicanus,7261337463,189
+190,"Cow, scottish highland",1.3,Bos taurus,6200885,190
+191,Red-billed tropic bird,14.6,Phaethon aethereus,8600740509,191
+192,"Squirrel, thirteen-lined",15.6,Spermophilus tridecemlineatus,1782273387,192
+193,Japanese macaque,6.2,Macaca fuscata,4902614855,193
+194,Oribi,24.9,Ourebia ourebi,5304538285,194
+195,"Tortoise, burmese black mountain",20,Manouria emys,3128821356,195
+196,"Goat, mountain",6.5,Oreamnos americanus,440016231,196
+197,White-bellied sea eagle,6.6,Haliaetus leucogaster,6048703023,197
+198,"Skink, blue-tongued",19.8,Tiliqua scincoides,1204182795,198
+199,"Wapiti, elk,",15.2,Cervus canadensis,9796000172,199
+200,"Corella, long-billed",0.3,Cacatua tenuirostris,6578138781,200
+201,"Squirrel, african bush",22,Paraxerus cepapi,1691987603,201
+202,Crab-eating raccoon,24.9,Procyon cancrivorus,8930590136,202
+203,"Cormorant, neotropic",1.5,Phalacrocorax brasilianus,3964589519,203
+204,White-throated toucan,11.1,Ramphastos tucanus,7224406651,204
+205,Indian red admiral,11,Vanessa indica,5783443549,205
+206,Small-spotted genet,2.8,Genetta genetta,1828687766,206
+207,Eastern boa constrictor,13,Acrantophis madagascariensis,858114607,207
+208,Mandras tree shrew,10.4,Anathana ellioti,8425798469,208
+209,Ovenbird,15.3,Seiurus aurocapillus,488429315,209
+210,"Screamer, crested",9.5,Chauna torquata,2892698103,210
+211,Collared lemming,10.2,Dicrostonyx groenlandicus,2025819803,211
+212,"Gazelle, grant's",26.8,Gazella granti,8409261294,212
+213,"Cormorant, great",8.6,Phalacrocorax carbo,6755871419,213
+214,"Weaver, red-billed buffalo",1,Bubalornis niger,7065557545,214
+215,Pygmy possum,0.1,Acrobates pygmaeus,6952216464,215
+216,"Marten, american",8.5,Martes americana,9400420862,216
+217,"Squirrel, pine",0.5,Tamiasciurus hudsonicus,3189993416,217
+218,Stone sheep,21.3,Ovis dalli stonei,2475770007,218
+219,"Flycatcher, tyrant",25.7,Myiarchus tuberculifer,5110594341,219
+220,European red squirrel,16.4,Sciurus vulgaris,7327313338,220
+221,African clawless otter,7.9,Aonyx capensis,4719941389,221
+222,Red-billed buffalo weaver,3.4,Bubalornis niger,2014008094,222
+223,"Macaw, blue and gold",5.4,Ara ararauna,3344195085,223
+224,Golden eagle,25.6,Aquila chrysaetos,7145269929,224
+225,Groundhog,19.3,Marmota monax,6158696277,225
+226,Flying fox (unidentified),2.1,unavailable,8668059653,226
+227,"Phascogale, red-tailed",17.1,Phascogale calura,5512115197,227
+228,Swallow (unidentified),16.4,unavailable,4937995332,228
+229,"Antelope, sable",13.7,Hippotragus niger,5224144906,229
+230,"Buffalo, wild water",19.2,Bubalus arnee,6026986138,230
+231,"Hawk, red-tailed",2.8,Buteo jamaicensis,9995306328,231
+232,"Deer, roe",21.8,Capreolus capreolus,8714437430,232
+233,Dassie,4.4,Dendrohyrax brucel,1797058541,233
+234,"Marten, american",27.4,Martes americana,9357543872,234
+235,Darwin ground finch (unidentified),11.8,Geospiza sp.,215534522,235
+236,"Racer, blue",24.6,Coluber constrictor foxii,6891334713,236
+237,"Dragon, asian water",25.5,Physignathus cocincinus,9893455812,237
+238,"Cat, native",12.2,Dasyurus viverrinus,2634267231,238
+239,"Vulture, bengal",21.6,Gyps bengalensis,5023360253,239
+240,"Tern, royal",0.7,Thalasseus maximus,1950671267,240
+241,"Bustard, stanley",29.6,Neotis denhami,7134231046,241
+242,Black vulture,10.5,Aegypius tracheliotus,9903655460,242
+243,Common seal,18.4,Phoca vitulina,8954849229,243
+244,Galapagos penguin,28.9,Spheniscus mendiculus,6198729621,244
+245,"Otter, canadian river",18,Lutra canadensis,5460393507,245
+246,North American porcupine,14.1,Erethizon dorsatum,177854820,246
+247,Lesser masked weaver,10.8,Ploceus intermedius,1944497366,247
+248,Gambel's quail,24.9,Callipepla gambelii,3984834314,248
+249,Platypus,17.6,Ornithorhynchus anatinus,5899961961,249
+250,Sage hen,18.6,Centrocercus urophasianus,9954858547,250
+251,Golden jackal,27,Canis aureus,9786164199,251
+252,Black-tailed deer,29.1,Odocoileus hemionus,4671525178,252
+253,Koala,19.2,Phascolarctos cinereus,4735181458,253
+254,"Chipmunk, least",23.9,Eutamias minimus,615959350,254
+255,Dassie,23.1,Dendrohyrax brucel,1079249192,255
+256,Striated heron,22.9,Butorides striatus,4690642621,256
+257,Indian mynah,18.1,Acridotheres tristis,4098691299,257
+258,"Puffin, horned",3.8,Fratercula corniculata,9343701896,258
+259,Red sheep,2.9,Ovis ammon,7359170923,259
+260,"Gnu, brindled",28.3,Connochaetus taurinus,170145921,260
+261,"Bunting, crested",19.3,Melophus lathami,5200551072,261
+262,White-mantled colobus,25.3,Colobus guerza,2462731822,262
+263,African porcupine,15.2,Hystrix cristata,5833524326,263
+264,"Rhinoceros, square-lipped",3.4,Ceratotherium simum,443658897,264
+265,Red-headed woodpecker,28.8,Melanerpes erythrocephalus,9933757121,265
+266,Ostrich,26.2,Struthio camelus,1098946731,266
+267,Kirk's dik dik,29.5,Madoqua kirkii,6228736175,267
+268,"Hawk, red-tailed",17.7,Buteo jamaicensis,6634876908,268
+269,Savannah deer,6.3,Mazama gouazoubira,4027377206,269
+270,Woodchuck,11,Marmota monax,5684534961,270
+271,White-faced whistling duck,13.2,Dendrocygna viduata,728457741,271
+272,"Mongoose, banded",24.6,Mungos mungo,7068889417,272
+273,Oriental white-backed vulture,5.9,Gyps bengalensis,774082291,273
+274,Red phalarope,11.7,Phalaropus fulicarius,2319677445,274
+275,Brown hyena,20.4,Hyaena brunnea,2046206290,275
+276,Ferruginous hawk,12.5,Buteo regalis,9440769475,276
+277,Grizzly bear,23.6,Ursus arctos,4588963805,277
+278,African black crake,4.9,Limnocorax flavirostra,8562791830,278
+279,American badger,15.6,Taxidea taxus,399273204,279
+280,"Hornbill, red-billed",19.4,Tockus erythrorhyncus,9144236484,280
+281,Jungle kangaroo,5.7,Macropus agilis,7578365061,281
+282,"Catfish, blue",3.5,Ictalurus furcatus,8872038502,282
+283,"Dragon, western bearded",11.6,Amphibolurus barbatus,4711058524,283
+284,Malay squirrel (unidentified),16,unavailable,4910389830,284
+285,Cape wild cat,24.7,Felis libyca,1293904112,285
+286,Koala,4.4,Phascolarctos cinereus,4510580606,286
+287,"Dove, laughing",29.9,Streptopelia senegalensis,2557631000,287
+288,Kafue flats lechwe,20.4,Kobus leche robertsi,5996305151,288
+289,Azara's zorro,10.5,Pseudalopex gymnocercus,9455066610,289
+290,"Hedgehog, south african",26.7,Erinaceus frontalis,1396602283,290
+291,"Monkey, red howler",12.7,Alouatta seniculus,2902046669,291
+292,"Squirrel, arctic ground",5.8,Spermophilus parryii,6461253823,292
+293,Steller's sea lion,28.3,Eumetopias jubatus,3772991009,293
+294,"Otter, african clawless",23.8,Aonyx capensis,4170596226,294
+295,Red hartebeest,17.4,Alcelaphus buselaphus caama,8866801429,295
+296,"Fowl, helmeted guinea",6.5,Numida meleagris,1389300153,296
+297,Civet cat,27.7,Bassariscus astutus,4168662217,297
+298,Lesser double-collared sunbird,3.9,Nectarinia chalybea,2751890474,298
+299,"Macaw, green-winged",23.4,Ara chloroptera,4571970943,299
+300,"Lapwing, southern",16.6,Vanellus chilensis,4895642046,300
+301,"Marshbird, brown and yellow",23.8,Pseudoleistes virescens,7243064280,301
+302,"Cat, civet",19,Bassariscus astutus,3525445466,302
+303,Mexican beaded lizard,5.2,Heloderma horridum,1749097672,303
+304,"Crane, wattled",25.9,Bugeranus caruncalatus,452533996,304
+305,"Waxbill, blue",3.2,Uraeginthus angolensis,5610705819,305
+306,"Badger, european",28.3,Meles meles,3800101033,306
+307,White-browed sparrow weaver,29,Plocepasser mahali,3567264648,307
+308,"Owl, madagascar hawk",11,Ninox superciliaris,8811563585,308
+309,Black-tailed tree creeper,7.9,Climacteris melanura,1621258386,309
+310,Bushpig,2,Potamochoerus porcus,9848157786,310
+311,"Crane, black-crowned",28,Balearica pavonina,5039998899,311
+312,"Cormorant, little",26.1,Phalacrocorax niger,2135058998,312
+313,Helmeted guinea fowl,13.9,Numida meleagris,6061328087,313
+314,Oriental short-clawed otter,29,Aonyx cinerea,8692880485,314
+315,Gelada baboon,13.9,Theropithecus gelada,2493606930,315
+316,"Cobra, egyptian",21.1,Naja haje,3520939584,316
+317,"Sheep, red",10.6,Ovis ammon,2911370880,317
+318,"Opossum, american virginia",27.6,Didelphis virginiana,441977065,318
+319,"Hoopoe, eurasian",10.8,Upupa epops,7532499367,319
+320,Frilled lizard,27.3,Chlamydosaurus kingii,348983719,320
+321,Brush-tailed rat kangaroo,20,Bettongia penicillata,6406608429,321
+322,European shelduck,17.7,Tadorna tadorna,8486612365,322
+323,Barasingha deer,9.4,Cervus duvauceli,1702038815,323
+324,"Wombat, southern hairy-nosed",3.9,Lasiorhinus latifrons,5323616458,324
+325,"Crocodile, nile",20.6,Crocodylus niloticus,8213498526,325
+326,Sable antelope,10.9,Hippotragus niger,6164509548,326
+327,"Quoll, spotted-tailed",27.2,Dasyurus maculatus,3240387115,327
+328,Black-tailed tree creeper,5.7,Climacteris melanura,5090905339,328
+329,"Sunbird, lesser double-collared",28.8,Nectarinia chalybea,9402231846,329
+330,Least chipmunk,1.9,Eutamias minimus,765616963,330
+331,"Capuchin, black-capped",8.6,Cebus apella,488809142,331
+332,"Teal, hottentot",23.4,Anas punctata,3737985596,332
+333,"Bandicoot, southern brown",4.6,Isoodon obesulus,7544995593,333
+334,"Cliffchat, mocking",7.2,Thamnolaea cinnmomeiventris,2102763501,334
+335,Lesser double-collared sunbird,19.6,Nectarinia chalybea,4176691522,335
+336,Kaffir cat,10.2,Felis silvestris lybica,1370131097,336
+337,Steller's sea lion,21.5,Eumetopias jubatus,1882053664,337
+338,"Squirrel, palm",27.4,Funambulus pennati,4457807966,338
+339,Javanese cormorant,1.1,Phalacrocorax niger,4390355201,339
+340,"Leopard, indian",24.6,Panthera pardus,4413313216,340
+341,"Wambenger, red-tailed",14.2,Phascogale calura,6489526247,341
+342,African buffalo,17.7,Snycerus caffer,8505237110,342
+343,Ring-tailed gecko,25.9,Cyrtodactylus louisiadensis,4366963078,343
+344,White-fronted bee-eater,23,Merops bullockoides,6400833218,344
+345,Blue fox,27.9,Alopex lagopus,6601139386,345
+346,Gemsbok,13,Oryx gazella,4579791509,346
+347,Eurasian red squirrel,23.9,Sciurus vulgaris,314110429,347
+348,Mudskipper (unidentified),10.8,unavailable,8844430142,348
+349,"Glider, squirrel",15.9,Petaurus norfolcensis,9234665910,349
+350,Spotted hyena,5.9,Crocuta crocuta,4688059698,350
+351,"Hyena, spotted",7.9,Crocuta crocuta,5003553919,351
+352,Pied cormorant,6.7,Phalacrocorax varius,7475570126,352
+353,Argalis,24.1,Ovis ammon,7724286477,353
+354,"Baboon, olive",8,Papio cynocephalus,8293097744,354
+355,Bontebok,20,Damaliscus dorcas,1801916780,355
+356,"Coatimundi, ring-tailed",8.3,Nasua nasua,7662739821,356
+357,"Vulture, king",27,Sarcorhamphus papa,6987127662,357
+358,"Colobus, black and white",0.8,Colobus guerza,9974209102,358
+359,"Vulture, white-headed",3.8,Aegypius occipitalis,7688402670,359
+360,"Rhea, greater",5,Rhea americana,6870612889,360
+361,"Lemming, collared",25.6,Dicrostonyx groenlandicus,3549205562,361
+362,"Goose, canada",7.4,Branta canadensis,1343172497,362
+363,"Monkey, vervet",23.9,Cercopithecus aethiops,2623915555,363
+364,White-headed vulture,17.2,Aegypius occipitalis,736955968,364
+365,"Mongoose, javan gold-spotted",15.5,Herpestes javanicus,2266141015,365
+366,"Gull, lava",22.4,Larus fuliginosus,4125883513,366
+367,"Macaque, bonnet",1.1,Macaca radiata,5156827152,367
+368,Tropical buckeye butterfly,9.9,Junonia genoveua,1484829468,368
+369,Rhesus macaque,23.9,Macaca mulatta,9048571081,369
+370,"Eagle, long-crested hawk",8.9,Lophoaetus occipitalis,2041894199,370
+371,Sidewinder,19.1,Crotalus cerastes,891276025,371
+372,"Gull, swallow-tail",2.8,Creagrus furcatus,5997660354,372
+373,Radiated tortoise,21.2,Geochelone radiata,9470188853,373
+374,Civet (unidentified),15.2,unavailable,3173054385,374
+375,Eurasian badger,28.5,Meles meles,2392586462,375
+376,"Weaver, white-browed sparrow",13.9,Plocepasser mahali,7305696528,376
+377,Eastern indigo snake,1.7,Drymarchon corias couperi,2585177777,377
+378,"Lion, steller sea",11.7,Eumetopias jubatus,4570658296,378
+379,Civet (unidentified),6,unavailable,1716550122,379
+380,Common brushtail possum,5.2,Trichosurus vulpecula,6693114377,380
+381,"Armadillo, seven-banded",20.9,Dasypus septemcincus,2327456703,381
+382,Striated heron,7.4,Butorides striatus,7211924756,382
+383,"Phascogale, red-tailed",18.7,Phascogale calura,5410225325,383
+384,Ring-necked pheasant,29.3,Phasianus colchicus,2122580496,384
+385,Stick insect,20.8,Leprocaulinus vipera,9382889116,385
+386,Gray rhea,4.8,Rhea americana,3786599890,386
+387,Galapagos dove,12,Zenaida galapagoensis,8714202573,387
+388,"Antelope, roan",16.2,Hippotragus equinus,2180478348,388
+389,"Monkey, vervet",0,Cercopithecus aethiops,4632300918,389
+390,"Kangaroo, western grey",17.2,Macropus fuliginosus,2900394732,390
+391,"Monkey, bleeding heart",5.5,Theropithecus gelada,9387727831,391
+392,Bald eagle,3.4,Haliaeetus leucocephalus,3174400724,392
+393,Striped skunk,7.3,Mephitis mephitis,1249032253,393
+394,Red-breasted nuthatch,1.9,Sitta canadensis,8294214663,394
+395,Capybara,25.3,Hydrochoerus hydrochaeris,4038113396,395
+396,"Sandgrouse, yellow-throated",24.5,Pterocles gutturalis,1541122461,396
+397,Canadian tiger swallowtail butterfly,26.1,Papilio canadensis,534248691,397
+398,Black-capped capuchin,16.9,Cebus apella,1587339242,398
+399,"Cat, ringtail",11.5,Bassariscus astutus,6470609317,399
+400,"Cockatoo, red-tailed",25,Calyptorhynchus magnificus,4106829967,400
+401,White-winged dove,19.3,Zenaida asiatica,9607101383,401
+402,"Monkey, rhesus",2,Macaca mulatta,5121242611,402
+403,"Hen, sage",5.5,Centrocercus urophasianus,8251869528,403
+404,"Bandicoot, long-nosed",14.6,Perameles nasuta,4466005427,404
+405,European shelduck,23.5,Tadorna tadorna,3097523111,405
+406,Australian masked owl,8.1,Tyto novaehollandiae,6652748207,406
+407,"Cockatoo, slender-billed",29.5,Cacatua tenuirostris,5494448673,407
+408,Land iguana,21.2,Conolophus subcristatus,4450553039,408
+409,"Bee-eater, carmine",24.4,Merops nubicus,4632049557,409
+410,"Possum, western pygmy",13.3,Cercatetus concinnus,2431779378,410
+411,Agile wallaby,4.3,Macropus agilis,7372950708,411
+412,"Shrike, common boubou",12.5,Laniarius ferrugineus,4082107630,412
+413,Blue crane,7.7,Anthropoides paradisea,720611008,413
+414,"Cormorant, little",19,Phalacrocorax niger,6018317729,414
+415,Azara's zorro,5.6,Pseudalopex gymnocercus,2352047919,415
+416,American racer,4.9,Coluber constrictor,514588128,416
+417,Wild turkey,9.8,Meleagris gallopavo,2881366139,417
+418,Oriental white-backed vulture,10.4,Gyps bengalensis,8085598655,418
+419,Little heron,1.8,Butorides striatus,8826546096,419
+420,Sulfur-crested cockatoo,14.6,Cacatua galerita,3531845225,420
+421,"Tern, white-winged",24.4,Chlidonias leucopterus,8697960681,421
+422,"Wallaby, river",22.8,Macropus agilis,1506012876,422
+423,Snowy sheathbill,15.9,Chionis alba,8202360668,423
+424,"Plover, blacksmith",19.3,Vanellus armatus,7495113359,424
+425,Western bearded dragon,15.2,Amphibolurus barbatus,5959451395,425
+426,Cape fox,4.3,Vulpes chama,1382899289,426
+427,Woolly-necked stork,18.4,Ciconia episcopus,9757552399,427
+428,"Crane, sarus",28.8,Grus antigone,1109765517,428
+429,Slender loris,13.8,Loris tardigratus,3406165966,429
+430,Common wombat,28.8,Vombatus ursinus,3285908327,430
+431,Two-banded monitor,30,Varanus salvator,9174244663,431
+432,Rufous tree pie,13.2,Dendrocitta vagabunda,873969510,432
+433,"Peacock, indian",22.8,Pavo cristatus,622361279,433
+434,Capybara,20,Hydrochoerus hydrochaeris,8914861937,434
+435,Japanese macaque,3.5,Macaca fuscata,9743446532,435
+436,Asian foreset tortoise,6.9,Manouria emys,2467769283,436
+437,"Dolphin, common",10.8,Delphinus delphis,7365572280,437
+438,Honey badger,27.6,Mellivora capensis,1971080713,438
+439,"Stork, marabou",23.3,Leptoptilos crumeniferus,8880370472,439
+440,"Teal, hottentot",21,Anas punctata,9168925565,440
+441,"Siskin, pine",19.4,Carduelis pinus,736714154,441
+442,"Waxbill, violet-eared",8.7,Uraeginthus granatina,7188505411,442
+443,"Sheathbill, snowy",16.4,Chionis alba,1691981923,443
+444,"Lizard, blue-tongued",11.9,Tiliqua scincoides,7683764108,444
+445,"Bushbaby, large-eared",4.2,Galago crassicaudataus,4464074413,445
+446,Agama lizard (unidentified),27.6,Agama sp.,5370179913,446
+447,Sea birds (unidentified),13,unavailable,9476173653,447
+448,"Sheep, stone",3.9,Ovis dalli stonei,7276631257,448
+449,"Rat, desert kangaroo",6.7,Dipodomys deserti,919000150,449
+450,Little brown bat,25.1,Myotis lucifugus,2607264138,450
+451,Ring dove,30,Columba palumbus,910492573,451
+452,"Baboon, olive",21.4,Papio cynocephalus,6517545859,452
+453,Burrowing owl,6.5,Speotyte cuniculata,1956856757,453
+454,Orca,20,Orcinus orca,7011275398,454
+455,"Zorro, common",11.4,Dusicyon thous,6345829471,455
+456,Tawny eagle,24,Anitibyx armatus,1929474342,456
+457,"Rhea, greater",30,Rhea americana,9887375578,457
+458,House crow,4.9,Corvus brachyrhynchos,281654719,458
+459,Ostrich,6.2,Struthio camelus,9162065106,459
+460,Pied avocet,27.3,Recurvirostra avosetta,5658024021,460
+461,"Dog, raccoon",1.3,Nyctereutes procyonoides,3739887400,461
+462,"Vulture, king",3.9,Sarcorhamphus papa,8127817562,462
+463,African ground squirrel (unidentified),9.6,Xerus sp.,6275697520,463
+464,"Egret, snowy",2.6,Egretta thula,8851105839,464
+465,"Crow, american",1.9,Corvus brachyrhynchos,3012232702,465
+466,Suricate,21.4,Suricata suricatta,9060982991,466
+467,"Booby, masked",25.4,Sula dactylatra,1736890808,467
+468,African wild cat,21.9,Felis silvestris lybica,6358852639,468
+469,Eurasian red squirrel,24.3,Sciurus vulgaris,5527399609,469
+470,"Gazelle, grant's",11.6,Gazella granti,9613682996,470
+471,"Dragon, ornate rock",4.3,Ctenophorus ornatus,7048483377,471
+472,Collared peccary,6.8,Tayassu tajacu,790625113,472
+473,"Phalarope, northern",5.6,Phalaropus lobatus,8198318496,473
+474,"Curlew, black",20.1,Haematopus ater,8564415135,474
+475,White-winged dove,0.2,Zenaida asiatica,1979668248,475
+476,Savannah deer,2.8,Mazama gouazoubira,7593275647,476
+477,Southern boubou,0.5,Laniarius ferrugineus,9542419090,477
+478,Mexican wolf,21.3,Canis lupus baileyi,8563496603,478
+479,"Iguana, common green",0.6,Iguana iguana,5644794644,479
+480,"Colobus, black and white",5.8,Colobus guerza,4056057966,480
+481,"Kiskadee, great",12.9,Pitangus sulphuratus,5858330959,481
+482,North American red fox,8.7,Vulpes vulpes,1614762783,482
+483,Little grebe,7.3,Tachybaptus ruficollis,559599331,483
+484,"Coatimundi, ring-tailed",3.2,Nasua nasua,965685004,484
+485,Sociable weaver,18.6,Philetairus socius,1631642146,485
+486,Long-billed cockatoo,22.4,Cacatua tenuirostris,5305810000,486
+487,"Legaan, water",22.5,Varanus salvator,8362887877,487
+488,"Coot, red-knobbed",25.6,Fulica cristata,6976420436,488
+489,Jungle kangaroo,20.6,Macropus agilis,8448753615,489
+490,Kori bustard,17.4,Choriotis kori,6519830658,490
+491,"Skunk, western spotted",18.2,Spilogale gracilis,3274542946,491
+492,Killer whale,1.6,Orcinus orca,1113457562,492
+493,"Snake, carpet",20.5,Morelia spilotes variegata,246758678,493
+494,"Bustard, stanley",26.3,Neotis denhami,1974431711,494
+495,Yellow-crowned night heron,7.2,Nyctanassa violacea,7847348314,495
+496,"Cockatoo, roseate",17.9,Eolophus roseicapillus,2305885083,496
+497,"Alligator, american",5.7,Alligator mississippiensis,2626857769,497
+498,Four-spotted skimmer,1.9,Libellula quadrimaculata,7354801143,498
+499,Sambar,20.9,Cervus unicolor,4103873345,499
+500,"Zebra, plains",20.5,Equus burchelli,1053382456,500
+501,Great horned owl,17.7,Bubo virginianus,3512267378,501
+502,"Monkey, vervet",1.9,Cercopithecus aethiops,5970498270,502
+503,Gray duiker,1,Sylvicapra grimma,2433698154,503
+504,Southern lapwing,12.4,Vanellus chilensis,6295971164,504
+505,"Constrictor, eastern boa",22.6,Acrantophis madagascariensis,7520189678,505
+506,Paca,3.6,Agouti paca,9978189602,506
+507,Black-faced kangaroo,8.2,Macropus fuliginosus,2277597619,507
+508,Kelp gull,16.8,Larus dominicanus,9587853563,508
+509,Ring-tailed gecko,1.7,Cyrtodactylus louisiadensis,2344789200,509
+510,"Kangaroo, red",1.4,Macropus rufus,6778905255,510
+511,"Bird, magnificent frigate",7.4,Fregata magnificans,1749175126,511
+512,"Booby, blue-faced",15.6,Sula dactylatra,7242582903,512
+513,"Stork, greater adjutant",16.4,Leptoptilus dubius,481783474,513
+514,"Siskin, yellow-rumped",11.6,Carduelis uropygialis,848512766,514
+515,Red kangaroo,19.9,Macropus rufus,8832851105,515
+516,"Creeper, black-tailed tree",5.1,Climacteris melanura,4402542790,516
+517,Red howler monkey,25.8,Alouatta seniculus,6995210557,517
+518,"Wallaby, bennett's",24.7,Macropus rufogriseus,8932728399,518
+519,"Squirrel, thirteen-lined",15.4,Spermophilus tridecemlineatus,5457038351,519
+520,"Sloth, hoffman's",27.9,Choloepus hoffmani,8222949276,520
+521,Wild turkey,18.7,Meleagris gallopavo,2921895838,521
+522,"Curlew, black",13.7,Haematopus ater,2821651252,522
+523,"Gorilla, western lowland",8.8,Gorilla gorilla,9146750010,523
+524,Australian magpie,27.3,Gymnorhina tibicen,3307302507,524
+525,"Macaw, green-winged",8.4,Ara chloroptera,2199187284,525
+526,Sociable weaver,12,Philetairus socius,4764988267,526
+527,Pacific gull,1.1,Gabianus pacificus,2275986456,527
+528,Squirrel glider,23.2,Petaurus norfolcensis,491458657,528
+529,Marabou stork,13.3,Leptoptilos crumeniferus,7473551116,529
+530,Pacific gull,23.6,Gabianus pacificus,8023507478,530
+531,"Wallaby, tammar",22.9,Macropus eugenii,282228101,531
+532,Asian elephant,9.6,Elephas maximus bengalensis,3547576970,532
+533,"Coatimundi, white-nosed",20.1,Nasua narica,9058328783,533
+534,American alligator,4.7,Alligator mississippiensis,5539874595,534
+535,"Squirrel, grey-footed",6.3,Paraxerus cepapi,7113836186,535
+536,African clawless otter,3.8,Aonyx capensis,6972030021,536
+537,"Bear, sloth",4.3,Melursus ursinus,4842148500,537
+538,"Lion, asian",11,Panthera leo persica,3802454723,538
+539,Springbok,11.8,Antidorcas marsupialis,5460454956,539
+540,Stanley crane,16.6,Anthropoides paradisea,9629537389,540
+541,"Stork, yellow-billed",6.7,Mycteria ibis,5633717147,541
+542,Mudskipper (unidentified),20.7,unavailable,4992016901,542
+543,Red and blue macaw,16.9,Ara chloroptera,6468221056,543
+544,Magistrate black colobus,27.2,Colobus guerza,523278152,544
+545,"Stork, openbill",22.8,Anastomus oscitans,5398469428,545
+546,Hummingbird (unidentified),15.3,unavailable,862842794,546
+547,"Kingfisher, pied",19.1,Ceryle rudis,4886677118,547
+548,"Butterfly, tropical buckeye",22,Junonia genoveua,5906215557,548
+549,"Owl, white-browed",23.1,Ninox superciliaris,674219317,549
+550,"Vulture, bengal",11.7,Gyps bengalensis,9686885153,550
+551,"Francolin, coqui",22.5,Francolinus coqui,7113598129,551
+552,"Lion, australian sea",28,Neophoca cinerea,2957490307,552
+553,Eleven-banded armadillo (unidentified),13.3,Cabassous sp.,8099137752,553
+554,"Tortoise, desert",5,Gopherus agassizii,8180308995,554
+555,Sandhill crane,6.5,Grus canadensis,8074962180,555
+556,"Deer, roe",26.7,Capreolus capreolus,3560304873,556
+557,White-fronted capuchin,16.4,Cebus albifrons,7461797697,557
+558,"Lion, galapagos sea",17.1,Zalophus californicus,2909550540,558
+559,Brush-tailed bettong,4.5,Bettongia penicillata,4710850496,559
+560,Yellow-brown sungazer,7.1,Cordylus giganteus,9814364436,560
+561,Bengal vulture,16.8,Gyps bengalensis,5645630823,561
+562,"Turaco, violet-crested",17.7,Tauraco porphyrelophus,8936852914,562
+563,"Stork, saddle-billed",28.1,Ephipplorhynchus senegalensis,5545050949,563
+564,Grey fox,6.3,Vulpes cinereoargenteus,8059973053,564
+565,"Seal, common",15,Phoca vitulina,3045980031,565
+566,Snowy owl,1.4,Nyctea scandiaca,5122268738,566
+567,Stick insect,0.8,Leprocaulinus vipera,7965848457,567
+568,Brown hyena,20.1,Hyaena brunnea,1639504400,568
+569,"Rhea, greater",4,Rhea americana,3944905202,569
+570,"Hedgehog, south african",11.9,Erinaceus frontalis,1044426764,570
+571,White-nosed coatimundi,3.4,Nasua narica,4142728091,571
+572,Golden-mantled ground squirrel,25,Spermophilus lateralis,2992110833,572
+573,"Monkey, bleeding heart",17.8,Theropithecus gelada,1392626781,573
+574,"Deer, barasingha",21.3,Cervus duvauceli,7799381078,574
+575,Euro wallaby,0.2,Macropus robustus,2889115496,575
+576,Red sheep,18,Ovis ammon,6758548740,576
+577,"Gull, southern black-backed",26.8,Larus dominicanus,6980131486,577
+578,Pied kingfisher,13.1,Ceryle rudis,9670268621,578
+579,"Bushbaby, large-eared",24.3,Galago crassicaudataus,4449477332,579
+580,"Heron, green",25.3,Butorides striatus,1932719032,580
+581,Steenbuck,0.6,Raphicerus campestris,5180717574,581
+582,"Tern, arctic",28.5,Sterna paradisaea,480348944,582
+583,"Stork, woolly-necked",13.9,Ciconia episcopus,4162304858,583
+584,"Capuchin, brown",18.5,Cebus apella,4511810494,584
+585,Greater roadrunner,8.8,Geococcyx californianus,352606886,585
+586,Caribou,1.6,Rangifer tarandus,21824401,586
+587,"Duck, blue",23,Hymenolaimus malacorhynchus,9400929463,587
+588,Pine snake (unidentified),0.6,Pituophis melanaleucus,469721154,588
+589,American bighorn sheep,21.7,Ovis canadensis,6873373753,589
+590,African black crake,21.7,Limnocorax flavirostra,4788426897,590
+591,Pied avocet,25.2,Recurvirostra avosetta,3788204249,591
+592,"Bunting, crested",25.4,Melophus lathami,8804768711,592
+593,Green-winged trumpeter,18.5,Psophia viridis,7816994699,593
+594,Numbat,5.6,Myrmecobius fasciatus,496335421,594
+595,Burmese brown mountain tortoise,29.8,Manouria emys,6077311006,595
+596,"Finch, common melba",29.2,Pytilia melba,6465422131,596
+597,Arctic fox,19.4,Alopex lagopus,3279445582,597
+598,"Wallaby, dama",24.7,Macropus eugenii,2460118198,598
+599,Vine snake (unidentified),18.7,Oxybelis sp.,3177648980,599
+600,Nyala,6,Tragelaphus angasi,3908055695,600
+601,Western grey kangaroo,25.1,Macropus fuliginosus,1451949332,601
+602,Ant (unidentified),19.8,unavailable,6646686858,602
+603,Red-breasted nuthatch,6.3,Sitta canadensis,8163746378,603
+604,Groundhog,0.4,Marmota monax,7341803568,604
+605,Ocelot,27.5,Felis pardalis,8822349407,605
+606,Asian false vampire bat,5.9,Megaderma spasma,7481379327,606
+607,"Tortoise, burmese brown mountain",28.9,Manouria emys,6788824363,607
+608,"Bear, polar",7.9,Ursus maritimus,1026451981,608
+609,Caracara (unidentified),26.9,unavailable,2692707877,609
+610,"Darter, african",18.3,Anhinga rufa,1716330440,610
+611,Wild water buffalo,19.3,Bubalus arnee,7857701726,611
+612,"Coatimundi, white-nosed",11.6,Nasua narica,259943312,612
+613,"Crane, sandhill",19.5,Grus canadensis,2174126702,613
+614,"Goose, andean",4.8,Chloephaga melanoptera,4116481890,614
+615,"Phalarope, red-necked",20.8,Phalaropus lobatus,7166251271,615
+616,"Fox, bat-eared",15.2,Otocyon megalotis,6833950180,616
+617,"Seal, common",28.3,Phoca vitulina,5218582913,617
+618,"Pigeon, wood",7,Columba palumbus,3231884152,618
+619,"Magpie, black-backed",11.6,Gymnorhina tibicen,1044310138,619
+620,Richardson's ground squirrel,13.9,Spermophilus richardsonii,7918048431,620
+621,Kelp gull,13.4,Larus dominicanus,6514712932,621
+622,American bison,13.9,Bison bison,4937704524,622
+623,"Toucan, red-billed",25.8,Ramphastos tucanus,339744367,623
+624,Cottonmouth,10.4,Agkistrodon piscivorus,5119745474,624
+625,Silver-backed jackal,8.1,Canis mesomelas,6137134385,625
+626,"Bat, little brown",6.7,Myotis lucifugus,8775899795,626
+627,Caracal,1.2,Felis caracal,886796040,627
+628,"Wallaby, tammar",23.7,Macropus eugenii,5962545923,628
+629,Pygmy possum,10.1,Acrobates pygmaeus,1874657297,629
+630,"Lion, galapagos sea",10.8,Zalophus californicus,1597301086,630
+631,"Otter, cape clawless",22.8,Aonyx capensis,7055493145,631
+632,"Possum, pygmy",10.8,Acrobates pygmaeus,1541631625,632
+633,Ground monitor (unidentified),27.1,Varanus sp.,6620870155,633
+634,Dark-winged trumpeter,27.9,Psophia viridis,4957291535,634
+635,Blackish oystercatcher,24.2,Haematopus ater,1619839164,635
+636,"Kingfisher, pied",2.1,Ceryle rudis,2259865380,636
+637,White-tailed deer,21,Odocoilenaus virginianus,2886584096,637
+638,"Bird, pied butcher",15.1,Cracticus nigroagularis,3099805378,638
+639,"Lynx, african",1.7,Felis caracal,339516119,639
+640,"Squirrel, malabar",4.2,Ratufa indica,7349534019,640
+641,"Vulture, egyptian",3.3,Neophron percnopterus,7885184323,641
+642,Four-striped grass mouse,25.6,Rhabdomys pumilio,8009060771,642
+643,White-tailed jackrabbit,26.1,Lepus townsendii,8626429088,643
+644,"White-eye, pale",6.7,Zosterops pallidus,9695306667,644
+645,Spotted-tailed quoll,7,Dasyurus maculatus,4597406344,645
+646,"Crane, blue",10.1,Anthropoides paradisea,5555738285,646
+647,"Skimmer, four-spotted",1.7,Libellula quadrimaculata,3222359601,647
+648,Small-spotted genet,27.8,Genetta genetta,1574180347,648
+649,"Bustard, kori",7.1,Choriotis kori,5397098167,649
+650,"Antelope, sable",14.3,Hippotragus niger,9138858851,650
+651,Purple grenadier,7.1,Uraeginthus granatina,4142304097,651
+652,Striped dolphin,15,Stenella coeruleoalba,5028955271,652
+653,"Gnu, brindled",22.5,Connochaetus taurinus,6708796376,653
+654,Southern ground hornbill,21.6,Bucorvus leadbeateri,7697554275,654
+655,"Lion, african",28.7,Panthera leo,9495903858,655
+656,Grant's gazelle,6.6,Gazella granti,3070720315,656
+657,Indian red admiral,25.2,Vanessa indica,2421190525,657
+658,"Lion, steller's sea",29.2,Eumetopias jubatus,2702281559,658
+659,"Iguana, common green",1.4,Iguana iguana,2827850249,659
+660,"Corella, long-billed",2.1,Cacatua tenuirostris,8854007420,660
+661,"Vulture, black",19.6,Aegypius tracheliotus,8549794449,661
+662,"Bandicoot, southern brown",5.3,Isoodon obesulus,3030312755,662
+663,Fairy penguin,21.2,Eudyptula minor,7912347844,663
+664,"Camel, dromedary",28.9,Camelus dromedarius,3040359622,664
+665,"Macaque, bonnet",13.5,Macaca radiata,4148511671,665
+666,Indian giant squirrel,17.4,Ratufa indica,4573114238,666
+667,"Screamer, southern",19.2,Chauna torquata,6630427386,667
+668,"Cliffchat, mocking",23.4,Thamnolaea cinnmomeiventris,5644865878,668
+669,Paradoxure,9.1,Paradoxurus hermaphroditus,3039392905,669
+670,Bald eagle,27,Haliaeetus leucocephalus,6637080179,670
+671,Egyptian goose,11,Alopochen aegyptiacus,4131428636,671
+672,Southern hairy-nosed wombat,3.4,Lasiorhinus latifrons,1650844379,672
+673,European badger,14.5,Meles meles,84526793,673
+674,Yellow-bellied marmot,8.9,Marmota flaviventris,6411696330,674
+675,Indian jackal,15.8,Canis aureus,1987454596,675
+676,Cougar,7.3,Felis concolor,6132661026,676
+677,Gray heron,2.8,Ardea cinerea,719704529,677
+678,"Buffalo, asian water",17.2,Bubalus arnee,2300146282,678
+679,Arboral spiny rat,3.8,Echimys chrysurus,5628680737,679
+680,Oriental white-backed vulture,11.9,Gyps bengalensis,7565130656,680
+681,Vicuna,15.4,Vicugna vicugna,3438384558,681
+682,White-faced tree rat,28.4,Echimys chrysurus,8766584647,682
+683,"Robin, kalahari scrub",6.6,Certotrichas paena,7150045839,683
+684,Collared lemming,4,Dicrostonyx groenlandicus,2473582513,684
+685,"Beaver, european",25.3,Castor fiber,8239182577,685
+686,American badger,7.5,Taxidea taxus,6183675938,686
+687,"Screamer, crested",9,Chauna torquata,1785506129,687
+688,"Lark, horned",18.2,Eremophila alpestris,3504626658,688
+689,Black spider monkey,20.1,Ateles paniscus,2335315072,689
+690,Oriental short-clawed otter,24.5,Aonyx cinerea,2334680877,690
+691,"Pheasant, ring-necked",29.6,Phasianus colchicus,4567607775,691
+692,Currasow (unidentified),16.2,Crax sp.,9209601823,692
+693,"Duck, blue",9.6,Hymenolaimus malacorhynchus,4867193224,693
+694,Long-crested hawk eagle,12,Lophoaetus occipitalis,5913612752,694
+695,Purple grenadier,16,Uraeginthus granatina,8851308373,695
+696,Snow goose,20.4,Anser caerulescens,2773821750,696
+697,"Wallaby, dama",15.9,Macropus eugenii,5700908905,697
+698,Bottle-nose dolphin,12.9,Tursiops truncatus,4795878153,698
+699,"Sandgrouse, yellow-throated",28.3,Pterocles gutturalis,1645941019,699
+700,Green-backed heron,8.6,Butorides striatus,5209087956,700
+701,Mexican wolf,10.1,Canis lupus baileyi,2183200812,701
+702,"Armadillo, common long-nosed",1.5,Dasypus novemcinctus,1559219971,702
+703,Tiger cat,21.3,Dasyurus maculatus,8051318358,703
+704,"Albatross, galapagos",26.9,Diomedea irrorata,1085798739,704
+705,"Dove, white-winged",8.8,Zenaida asiatica,4187300317,705
+706,Chacma baboon,20.9,Papio ursinus,628617100,706
+707,"Badger, european",17.7,Meles meles,4860654803,707
+708,Red-billed buffalo weaver,0.8,Bubalornis niger,3027787616,708
+709,"Marten, american",19.3,Martes americana,7268798342,709
+710,Blue and gold macaw,4,Ara ararauna,7583549493,710
+711,"Bird, secretary",11.3,Sagittarius serpentarius,2914881657,711
+712,Rainbow lory,25.4,Trichoglossus haematodus moluccanus,9216988541,712
+713,Currasow (unidentified),7.7,Crax sp.,8691195118,713
+714,Black-backed jackal,23.7,Canis mesomelas,3952316997,714
+715,Vine snake (unidentified),8.4,Oxybelis sp.,8566898338,715
+716,Wild turkey,7.3,Meleagris gallopavo,6931884573,716
+717,Dassie,17.7,Dendrohyrax brucel,9891188388,717
+718,Indian tree pie,22.9,Dendrocitta vagabunda,1198420170,718
+719,Ocelot,25.2,Felis pardalis,9100920711,719
+720,"Vulture, white-headed",29.6,Aegypius occipitalis,3225144711,720
+721,Sacred ibis,26.1,Threskionis aethiopicus,8017271832,721
+722,"Kingfisher, white-throated",5.7,Halcyon smyrnesis,6154939477,722
+723,Western grey kangaroo,6.5,Macropus fuliginosus,2306101221,723
+724,"Macaw, scarlet",9.9,Ara macao,3247891854,724
+725,Red-necked wallaby,12.9,Macropus rufogriseus,6958763769,725
+726,"Blackbird, red-winged",2.6,Agelaius phoeniceus,2152048989,726
+727,Serval,9.5,Felis serval,9307711623,727
+728,Yellow-necked spurfowl,24.9,Francolinus leucoscepus,832088579,728
+729,"Duiker, gray",19.7,Sylvicapra grimma,8686200389,729
+730,"Baboon, savanna",2.9,Papio cynocephalus,7511993419,730
+731,Slender loris,12.1,Loris tardigratus,7344687305,731
+732,"Badger, european",1.9,Meles meles,7950371390,732
+733,"Kudu, greater",14.3,Tragelaphus strepsiceros,5326350041,733
+734,"Squirrel, richardson's ground",11,Spermophilus richardsonii,1951016602,734
+735,Northern elephant seal,10.8,Mirounga angustirostris,4639682018,735
+736,"Cat, jungle",14.9,Felis chaus,8761753386,736
+737,River wallaby,22.7,Macropus agilis,5582861262,737
+738,"Wombat, common",6.2,Vombatus ursinus,4788688271,738
+739,"Skua, great",24.1,Catharacta skua,5229830158,739
+740,"Wolf, mexican",20.8,Canis lupus baileyi,529521466,740
+741,"Bushbaby, large-eared",26.4,Galago crassicaudataus,8214063728,741
+742,Red-winged blackbird,12.1,Agelaius phoeniceus,7790757156,742
+743,"Devil, tasmanian",28.3,Sarcophilus harrisii,3970125758,743
+744,"Starling, superb",18.8,Lamprotornis superbus,4816057080,744
+745,South American puma,0.2,Felis concolor,2123800929,745
+746,Hawk-headed parrot,28.8,Deroptyus accipitrinus,4873719097,746
+747,Ibex,8.3,Capra ibex,8316255553,747
+748,"Moccasin, water",1.1,Agkistrodon piscivorus,1847272258,748
+749,Horned lark,11.4,Eremophila alpestris,1359735194,749
+750,"Rattlesnake, dusky",12.5,Crotalus triseriatus,1855269457,750
+751,"Bee-eater, nubian",13.3,Merops nubicus,2312378027,751
+752,Cheetah,14.2,Acinynox jubatus,3399029497,752
+753,"Mockingbird, galapagos",5.3,Nesomimus trifasciatus,1629826820,753
+754,"Finch, common melba",12.3,Pytilia melba,8219632054,754
+755,Eastern grey kangaroo,27.5,Macropus giganteus,8809699165,755
+756,Marine iguana,12.2,Amblyrhynchus cristatus,6174219976,756
+757,Eleven-banded armadillo (unidentified),28.7,Cabassous sp.,6670981023,757
+758,Vine snake (unidentified),19.4,Oxybelis sp.,2539295355,758
+759,Black-throated cardinal,19.9,Paroaria gularis,4338801735,759
+760,Moose,15,Alces alces,9667745384,760
+761,Green-winged trumpeter,17.3,Psophia viridis,336588860,761
+762,"Rhinoceros, white",5.3,Ceratotherium simum,6332305118,762
+763,Eastern boa constrictor,5,Acrantophis madagascariensis,4642396888,763
+764,Yellow-crowned night heron,14,Nyctanassa violacea,583966292,764
+765,American woodcock,9.3,Scolopax minor,4247124722,765
+766,"Rat, white-faced tree",16,Echimys chrysurus,1624012132,766
+767,Indian giant squirrel,10.6,Ratufa indica,449915840,767
+768,"Hoopoe, eurasian",26,Upupa epops,2104740606,768
+769,"Cockatoo, slender-billed",6.5,Cacatua tenuirostris,1837260508,769
+770,Sockeye salmon,30,Oncorhynchus nerka,5430099023,770
+771,Lesser mouse lemur,24.5,Microcebus murinus,2603041118,771
+772,Blue-faced booby,15,Sula dactylatra,8810137701,772
+773,River wallaby,9.4,Macropus agilis,2912766966,773
+774,Snowy egret,3.2,Egretta thula,5566939104,774
+775,Galapagos sea lion,25.4,Zalophus californicus,3159564541,775
+776,Blackish oystercatcher,9.9,Haematopus ater,4889754911,776
+777,"Pelican, australian",7.4,Pelecanus conspicillatus,6849280724,777
+778,"Bear, grizzly",12.9,Ursus arctos,8652138842,778
+779,"Penguin, little blue",1,Eudyptula minor,9466094173,779
+780,Hawk-headed parrot,27.1,Deroptyus accipitrinus,863719708,780
+781,"Toucan, white-throated",27.1,Ramphastos tucanus,5312453196,781
+782,African wild cat,28.3,Felis silvestris lybica,5640791608,782
+783,Tarantula,21.9,Lasiodora parahybana,6833945934,783
+784,Serval,0.8,Felis serval,490806252,784
+785,Blue and gold macaw,24.4,Ara ararauna,2303569001,785
+786,Eastern cottontail rabbit,25.8,Sylvilagus floridanus,3434950680,786
+787,"Heron, striated",6.4,Butorides striatus,75146703,787
+788,White-faced whistling duck,6.3,Dendrocygna viduata,7697242419,788
+789,Grey mouse lemur,2.5,Microcebus murinus,6007410056,789
+790,"Cormorant, flightless",13.5,Nannopterum harrisi,3126159222,790
+791,"Squirrel, african bush",17.2,Paraxerus cepapi,5485712568,791
+792,Blesbok,22.4,Damaliscus dorcas,6580725834,792
+793,"Peacock, blue",5.5,Pavo cristatus,2594837717,793
+794,Common palm civet,20.3,Paradoxurus hermaphroditus,709081316,794
+795,Red-capped cardinal,11.7,Paroaria gularis,6839121232,795
+796,"Starling, red-shouldered glossy",14.2,Lamprotornis nitens,6595851490,796
+797,Eastern white pelican,13.7,Pelecans onocratalus,5697475888,797
+798,"Weaver, sociable",4.5,Philetairus socius,9904967296,798
+799,"Seal, northern elephant",28.9,Mirounga angustirostris,4850134130,799
+800,"Crane, sandhill",21.3,Grus canadensis,5123656669,800
+801,Comb duck,6.1,Sarkidornis melanotos,881963828,801
+802,Caracara (unidentified),21.8,unavailable,7475072274,802
+803,Gecko (unidentified),17.8,unavailable,487195167,803
+804,Striped skunk,25.3,Mephitis mephitis,4178593323,804
+805,"Peccary, collared",22.1,Tayassu tajacu,6312411516,805
+806,Common wallaroo,23,Macropus robustus,3916060635,806
+807,"Waxbill, black-cheeked",21.2,Estrilda erythronotos,6551021484,807
+808,"Creeper, black-tailed tree",10.4,Climacteris melanura,6685682531,808
+809,Polar bear,19.8,Ursus maritimus,3954054868,809
+810,Common shelduck,21,Tadorna tadorna,1332071791,810
+811,Black curlew,22,Haematopus ater,7135974727,811
+812,"Baboon, gelada",4.8,Theropithecus gelada,5109689482,812
+813,"Marten, american",8.6,Martes americana,7432341788,813
+814,Chameleon (unidentified),29.3,Chamaelo sp.,1965256864,814
+815,Least chipmunk,29.9,Eutamias minimus,8051041208,815
+816,Swallow (unidentified),22.2,unavailable,8609263886,816
+817,"Lemur, grey mouse",29.6,Microcebus murinus,2070862305,817
+818,Musk ox,27.4,Ovibos moschatus,7378683345,818
+819,Eurasian red squirrel,28.8,Sciurus vulgaris,8589088960,819
+820,"Tortoise, galapagos",14,Geochelone elephantopus,198907621,820
+821,Russian dragonfly,13.2,Libellula quadrimaculata,8416946760,821
+822,Rose-ringed parakeet,3.9,Psittacula krameri,2568073454,822
+823,Malabar squirrel,1.3,Ratufa indica,6994936473,823
+824,Black-winged stilt,24.9,Himantopus himantopus,7621614234,824
+825,"Bee-eater, nubian",22.7,Merops nubicus,1387321285,825
+826,Square-lipped rhinoceros,24.7,Ceratotherium simum,5108592817,826
+827,"Vulture, griffon",29.5,Gyps fulvus,5323444525,827
+828,Paddy heron (unidentified),10.5,unavailable,7586491038,828
+829,Caribou,26.8,Rangifer tarandus,9784549395,829
+830,"Rhea, common",29.6,Rhea americana,2031688731,830
+831,"Crane, wattled",7.2,Bugeranus caruncalatus,1002614759,831
+832,"Cat, african wild",21.3,Felis silvestris lybica,4654004394,832
+833,Civet (unidentified),10.7,unavailable,3549386974,833
+834,Spur-winged goose,27.8,Plectopterus gambensis,7775602740,834
+835,"Monkey, bleeding heart",23.2,Theropithecus gelada,5659305296,835
+836,Ocelot,28.6,Felis pardalis,1967900019,836
+837,Blue fox,14.5,Alopex lagopus,2926032102,837
+838,"Raccoon, crab-eating",11.9,Procyon cancrivorus,604973160,838
+839,"Penguin, little blue",25.2,Eudyptula minor,7107101021,839
+840,"Ibis, sacred",29,Threskionis aethiopicus,3849816575,840
+841,Common green iguana,0.7,Iguana iguana,9870064442,841
+842,Western palm tanager (unidentified),0.4,unavailable,1189669773,842
+843,River wallaby,0.8,Macropus agilis,1506495443,843
+844,Asian lion,20,Panthera leo persica,2869559569,844
+845,"Teal, hottentot",20.8,Anas punctata,1390136299,845
+846,"Starling, greater blue-eared",11.6,Lamprotornis chalybaeus,6087719237,846
+847,Onager,12.5,Equus hemionus,5459014700,847
+848,Greater blue-eared starling,15.1,Lamprotornis chalybaeus,6257772842,848
+849,"Polecat, african",27.7,Ictonyx striatus,8006187142,849
+850,Springhare,24.9,Pedetes capensis,7973787402,850
+851,Fork-tailed drongo,14.8,Dicrurus adsimilis,2308244577,851
+852,Scarlet macaw,0.9,Ara macao,4394806291,852
+853,"Stork, marabou",10.3,Leptoptilos crumeniferus,9185353906,853
+854,"Crake, african black",1.3,Limnocorax flavirostra,983761299,854
+855,"Stork, openbill",9.7,Anastomus oscitans,7945728170,855
+856,"Gonolek, burchell's",27.3,Laniaurius atrococcineus,61214639,856
+857,Polar bear,15.9,Ursus maritimus,1236492560,857
+858,Fat-tailed dunnart,24.5,Smithopsis crassicaudata,8468087882,858
+859,Red-cheeked cordon bleu,29,Uraeginthus bengalus,4685258908,859
+860,Snowy egret,24.3,Egretta thula,9383552018,860
+861,"Lion, steller sea",27.5,Eumetopias jubatus,2019299453,861
+862,Carpet snake,5.3,Morelia spilotes variegata,5453945591,862
+863,"Chipmunk, least",1.4,Eutamias minimus,854214992,863
+864,"Bison, american",24.6,Bison bison,7775761520,864
+865,Common wolf,29,Canis lupus,6457418341,865
+866,Roseat flamingo,13.6,Phoenicopterus ruber,4277775241,866
+867,Great kiskadee,14.9,Pitangus sulphuratus,5890022741,867
+868,"Shrew, mandras tree",7.5,Anathana ellioti,905725204,868
+869,"Tamandua, southern",18.5,Tamandua tetradactyla,7009248400,869
+870,Brindled gnu,12.7,Connochaetus taurinus,7466068928,870
+871,Oribi,29,Ourebia ourebi,8322793081,871
+872,"Jackal, black-backed",19.1,Canis mesomelas,6812534773,872
+873,Ground legaan,21.7,Varanus sp.,5891629178,873
+874,Common zorro,10.4,Dusicyon thous,215882393,874
+875,Striped hyena,16.5,Hyaena hyaena,1034659820,875
+876,"Booby, masked",20.5,Sula dactylatra,352305800,876
+877,Gray duiker,13.2,Sylvicapra grimma,9073345634,877
+878,"Goat, mountain",13.4,Oreamnos americanus,8783561137,878
+879,"Flicker, field",8.9,Colaptes campestroides,621528285,879
+880,Greater sage grouse,24.4,Centrocercus urophasianus,7962386746,880
+881,Koala,20.4,Phascolarctos cinereus,4779914191,881
+882,Glossy starling (unidentified),25.3,Lamprotornis sp.,8019246991,882
+883,European stork,2.8,Ciconia ciconia,2598303385,883
+884,"Avocet, pied",19.1,Recurvirostra avosetta,7909450761,884
+885,Gulls (unidentified),26,Larus sp.,3827140420,885
+886,"Pheasant, common",3.4,Phasianus colchicus,8646342964,886
+887,"Owl, great horned",23.2,Bubo virginianus,3199153054,887
+888,"Eagle, bald",11.4,Haliaeetus leucocephalus,2711925994,888
+889,Killer whale,15.6,Orcinus orca,8182389577,889
+890,Tropical buckeye butterfly,15.3,Junonia genoveua,7300428193,890
+891,Eurasian hoopoe,6.1,Upupa epops,3228638758,891
+892,"Stork, painted",5.6,Mycteria leucocephala,754852954,892
+893,Eleven-banded armadillo (unidentified),1.8,Cabassous sp.,8186937684,893
+894,Striped skunk,14.5,Mephitis mephitis,6745325500,894
+895,"Alligator, american",3.9,Alligator mississippiensis,2606716337,895
+896,Tsessebe,25.4,Damaliscus lunatus,6389358091,896
+897,Red-legged pademelon,13.4,Thylogale stigmatica,667837701,897
+898,"Squirrel, african bush",3.2,Paraxerus cepapi,7000758651,898
+899,Eastern white pelican,15.7,Pelecans onocratalus,5283689271,899
+900,"Rat, white-faced tree",13.6,Echimys chrysurus,1459858875,900
+901,"Skink, african",18.4,Mabuya spilogaster,4882050366,901
+902,"Jaeger, long-tailed",23.9,Stercorarius longicausus,3564367098,902
+903,"Squirrel, red",20.1,Tamiasciurus hudsonicus,9855029526,903
+904,"Dove, white-winged",9.3,Zenaida asiatica,2943231479,904
+905,"Mockingbird, galapagos",14,Nesomimus trifasciatus,6552377061,905
+906,"Eagle, white-bellied sea",1.3,Haliaetus leucogaster,8856194082,906
+907,"Cockatoo, red-tailed",10.1,Calyptorhynchus magnificus,3217628861,907
+908,"Macaque, pig-tailed",16.4,Macaca nemestrina,9225521618,908
+909,Curve-billed thrasher,2.8,Toxostoma curvirostre,2393462678,909
+910,"Fox, blue",22.2,Alopex lagopus,7637577767,910
+911,"Shrike, crimson-breasted",9.8,Laniaurius atrococcineus,212794388,911
+912,"Grebe, little",6.5,Tachybaptus ruficollis,889033757,912
+913,"Squirrel, arctic ground",13.5,Spermophilus parryii,551558717,913
+914,Verreaux's sifaka,28.4,Propithecus verreauxi,9412363656,914
+915,"Monitor, white-throated",11.9,Varanus albigularis,3202748793,915
+916,"Loris, slender",15.2,Loris tardigratus,2326506405,916
+917,Black swan,18.3,Cygnus atratus,3991472171,917
+918,"Polecat, african",9,Ictonyx striatus,4648612515,918
+919,"Dragon, asian water",8.1,Physignathus cocincinus,3194722662,919
+920,Moose,26.3,Alces alces,1948366185,920
+921,Leadbeateri's ground hornbill,3.1,Bucorvus leadbeateri,3213861901,921
+922,"Buffalo, american",18,Bison bison,6285935890,922
+923,Eastern dwarf mongoose,6.1,Helogale undulata,3147450295,923
+924,Javanese cormorant,11.6,Phalacrocorax niger,807878731,924
+925,"Dragon, netted rock",24.4,Ctenophorus ornatus,5010228564,925
+926,African buffalo,26.8,Snycerus caffer,2352884926,926
+927,Gambel's quail,2.9,Callipepla gambelii,105859338,927
+928,"Lizard, frilled",14.1,Chlamydosaurus kingii,4862781772,928
+929,Mouflon,15,Ovis musimon,9158974822,929
+930,Bobcat,0.1,Felis rufus,7127900086,930
+931,"Lapwing, southern",9,Vanellus chilensis,8534232075,931
+932,Lesser double-collared sunbird,6.5,Nectarinia chalybea,6356892137,932
+933,"White-eye, pale",23.3,Zosterops pallidus,5833020751,933
+934,Sambar,3.5,Cervus unicolor,6878532175,934
+935,"Dunnart, fat-tailed",10.9,Smithopsis crassicaudata,3968462440,935
+936,"Gorilla, western lowland",5.6,Gorilla gorilla,2128775744,936
+937,Red kangaroo,16.7,Macropus rufus,7532629147,937
+938,"Langur, hanuman",18.3,Semnopithecus entellus,3228719987,938
+939,"Dog, bush",6.6,Speothos vanaticus,3467246710,939
+940,"Hyena, striped",11,Hyaena hyaena,3245183496,940
+941,"Heron, yellow-crowned night",26.6,Nyctanassa violacea,4980988075,941
+942,Blesbok,13.3,Damaliscus dorcas,3075368083,942
+943,Grizzly bear,17.7,Ursus arctos,951742698,943
+944,"Cow, scottish highland",23.8,Bos taurus,6663517015,944
+945,"Tarantula, salmon pink bird eater",15,Lasiodora parahybana,14224518,945
+946,"Lynx, african",4.7,Felis caracal,3074666021,946
+947,Black-backed jackal,1.3,Canis mesomelas,8700303593,947
+948,River wallaby,6,Macropus agilis,3243472725,948
+949,Gray langur,25.7,Semnopithecus entellus,9298492294,949
+950,Ring-tailed coatimundi,1.5,Nasua nasua,4368501845,950
+951,"Bustard, denham's",16.7,Neotis denhami,4312237263,951
+952,"Macaque, japanese",4.5,Macaca fuscata,8982213538,952
+953,Cormorant (unidentified),6.7,unavailable,7261414018,953
+954,Darwin ground finch (unidentified),25.9,Geospiza sp.,8210509276,954
+955,Four-horned antelope,23,Tetracerus quadricornis,1375723723,955
+956,"Stork, white",0.1,Ciconia ciconia,376273496,956
+957,Black-footed ferret,7.2,Mustela nigripes,3485341614,957
+958,Openbill stork,11.8,Anastomus oscitans,4021117636,958
+959,Eastern white pelican,9.9,Pelecans onocratalus,14690039,959
+960,"Rhea, greater",22.7,Rhea americana,4614301258,960
+961,"Dunnart, fat-tailed",16.3,Smithopsis crassicaudata,6450764422,961
+962,Cape wild cat,13.7,Felis libyca,7684710745,962
+963,"Starling, red-shouldered glossy",29.7,Lamprotornis nitens,187574367,963
+964,Frog (unidentified),3.2,Rana sp.,8309368143,964
+965,Caribou,17.9,Rangifer tarandus,9027188912,965
+966,Brindled gnu,19.8,Connochaetus taurinus,7939434500,966
+967,Nile crocodile,8.3,Crocodylus niloticus,8359711704,967
+968,"Bat, little brown",15.5,Myotis lucifugus,3202210572,968
+969,Common nighthawk,13.4,Chordeiles minor,3556433842,969
+970,"Tapir, brazilian",8.7,Tapirus terrestris,4058514477,970
+971,"Sheep, red",16.5,Ovis ammon,1572367954,971
+972,Osprey,6.9,Pandon haliaetus,5251936885,972
+973,"Duiker, gray",18.3,Sylvicapra grimma,9036581850,973
+974,Greater sage grouse,4,Centrocercus urophasianus,8141827243,974
+975,"Mynah, indian",6.7,Acridotheres tristis,9406623730,975
+976,Verreaux's sifaka,11.5,Propithecus verreauxi,5261388619,976
+977,King cormorant,18.7,Phalacrocorax albiventer,5360457279,977
+978,"Macaque, pig-tailed",18.7,Macaca nemestrina,3843963010,978
+979,Fork-tailed drongo,21.1,Dicrurus adsimilis,542132354,979
+980,Kongoni,28.3,Alcelaphus buselaphus cokii,1030412081,980
+981,"Flamingo, lesser",18,Phoeniconaias minor,5389292952,981
+982,"Squirrel, thirteen-lined",20.3,Spermophilus tridecemlineatus,8454166955,982
+983,Moose,3.6,Alces alces,2135957488,983
+984,Frilled lizard,29.1,Chlamydosaurus kingii,2608028942,984
+985,"Porcupine, african",20.1,Hystrix cristata,130635014,985
+986,"Kudu, greater",26.3,Tragelaphus strepsiceros,7054451813,986
+987,Cape fox,14.6,Vulpes chama,6718671290,987
+988,Black-tailed deer,28.5,Odocoileus hemionus,3299285823,988
+989,Nilgai,3.9,Boselaphus tragocamelus,5967158103,989
+990,"Wallaby, bennett's",26,Macropus rufogriseus,2558075837,990
+991,"Monkey, vervet",24.7,Cercopithecus aethiops,6745136538,991
+992,White spoonbill,3.8,Platalea leucordia,950787892,992
+993,"Macaw, blue and yellow",15.2,Ara ararauna,3138955878,993
+994,Black-necked stork,26.5,Ephippiorhynchus mycteria,3726576177,994
+995,Kaffir cat,20,Felis silvestris lybica,8511613935,995
+996,Chameleon (unidentified),10.4,Chamaelo sp.,9366203299,996
+997,Gray heron,29.3,Ardea cinerea,4939548295,997
+998,Common grenadier,20.1,Uraeginthus granatina,5249696821,998
+999,"Squirrel, uinta ground",11.3,Spermophilus armatus,6836896322,999
+1000,"Gecko, barking",20.5,Phylurus milli,4665701814,1000
